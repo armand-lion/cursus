@@ -16,6 +16,10 @@ p {
     font-size: 18px;
 }
 
+br {
+    margin-bottom: 2em;
+}
+
 #galerij {
     width: 300px;
     height: 225px;
